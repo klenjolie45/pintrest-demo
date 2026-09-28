@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest - Discover Recipes, Home Ideas, Style & More",
+  "description": "Explore soccer season inspiration, beauty ideas by skin tone, visual search, and collaborative boards to create the life you love on Pinterest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
